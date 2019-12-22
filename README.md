@@ -3,13 +3,12 @@
 
 ### Requirements:
   * Matlab R2017b or newer (with Simulink installed)
-  * Windows or Mac (both 64bit)
+  * Windows or Mac (both 64bit; for Mac, use the *R2017b* file)
 
 ### Files
 1. **R2019a** folder 
   * *cpm_jap_R2019a.slx* : Main Simulink file for Matlab R2019a or newer (please note the "R2017b" files can be used for all Matlab versions beyond R2015b, but it's recommended to use the newer version for better compatibility)
   * *CP_sf.mexw64* : Compiled code of the modified CP Model (for Windows; for the R2019a main file)
-  * *CP_sf.mexmaci64* : Compiled code of the modified CP Model (for MacOS; for the R2019a main file)
 2. **R2017b** folder
   * *cpm_jap_R2017b.slx* : Main Simulink file for Matlab R2017b, R2018a, R2018b
   * *CP_sf.mexw64* : Compiled code of the modified CP Model (for Windows; for the R2017b main file)
