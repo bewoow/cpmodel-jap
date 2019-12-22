@@ -7,7 +7,7 @@
 
 ### Files
 1. **R2019a** folder 
-  * *cpm_jap_R2019a.slx* : Main Simulink file for Matlab R2019a or newer (please note the "R2017b" files can be used for all Matlab versions beyond R2015b, but it's recommended to use the newer version for better compatibility)
+  * *cpm_jap_R2019a.slx* : Main Simulink file for Matlab R2019a or newer (please note the "R2017b" files can be used for all Matlab versions beyond R2017b, but it's recommended to use the newer version for better compatibility)
   * *CP_sf.mexw64* : Compiled code of the modified CP Model (for Windows; for the R2019a main file)
 2. **R2017b** folder
   * *cpm_jap_R2017b.slx* : Main Simulink file for Matlab R2017b, R2018a, R2018b
