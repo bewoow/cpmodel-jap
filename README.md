@@ -1,4 +1,4 @@
-w# "Heart-lung interactions during mechanical ventilation: Analysis via a cardiopulmonary simulation model" - Karamolegkos, Albanese, Chbat
+# "Heart-lung interactions during mechanical ventilation: Analysis via a cardiopulmonary simulation model" - Karamolegkos, Albanese, Chbat
 ## Journal of Applied Physiology
 
 ### Requirements:
